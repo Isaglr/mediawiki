@@ -1,0 +1,88 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: fi;
+    src: url(janda_curlygirl/JandaCurlygirlPop.ttf);
+}
+@font-face {
+    font-family: mg;
+    src: url(chicago_4/Chicago.otf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: #FF8E8F;
+
+}
+
+img {
+    height: 60px;
+}
+
+body {
+
+    background-color: #FEC7B4;
+}
+
+h1 {
+    font-family: fi;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+
+    font-size: 20px;
+}
+
+.fe {
+    font-family: mg;
+    margin-left: 16%;
+    font-size: 30px;
+    margin-bottom: 30px;
+    text-align: justify;
+
+}
+
+.isa {
+    font-family: mg;
+    margin-left: 65%;
+    margin-bottom: 30px;
+
+}
+
+.ig {
+    font-family: mg;
+    margin-left: 72%;
+    margin-bottom: 30px;
+}
+
+.container div {
+    width: 500px;
+}
+
+.radio {
+    margin-left: 60%;
+    text-align: justify;
+}
+
+.radio2 {
+    margin-left: 60%;
+    text-align: justify;
+
+}
+
+.bike {
+    margin-left: 4%;
+}
+
+footer{
+    font-family: mg;
+    color: #df7a7c;
+    margin-left: 4%;
+    font-size: 20px;
+}
